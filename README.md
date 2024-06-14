@@ -1,5 +1,5 @@
 
-👋 ¡Hola! Soy Valentín, estudiante de tercer año de Ingeniería en Sistemas en la UTN. Además, estoy terminando un curso de inglés nivel C1 y actualmente estudiando para una diplomatura en desarrollo web full-stack.
+👋 ¡Hola! Soy Valentín, estudiante de tercer año de Ingeniería en Sistemas en la UTN. Además, estoy terminando una diplomatura de inglés nivel C1 y actualmente estudiando para una diplomatura en desarrollo web full-stack.
 
 Habilidades
 
