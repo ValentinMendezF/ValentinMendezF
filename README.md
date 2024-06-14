@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋
 
 <!--
 **ValentinMendezF/ValentinMendezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Este es mi perfil!
+
+Soy estudiante de Ingeniería en Sistemas en UTN, estoy en mi tercer año.
+Actualmente estoy terminando un curso de Inglés nivel C1. También, estoy estudiando para una diplomatura en desarrolo web full-stack.
+Los lenguajes de programción que más conozco son: Java, MySQL, HTML y CSS.
+
